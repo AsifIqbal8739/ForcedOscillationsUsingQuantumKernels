@@ -1,0 +1,8 @@
+numpy==2.3.2
+scipy>=1.13
+pandas>=2.2
+scikit-learn==1.7.1
+qiskit==2.1.1
+# only for revision_round2/transpile_noise_check.py
+qiskit-aer
+qiskit-ibm-runtime
